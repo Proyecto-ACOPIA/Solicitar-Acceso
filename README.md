@@ -19,4 +19,4 @@ Una vez que tengas tu cuenta de GitHub, por favor envía un correo a proyecto.ac
          - El correo electrónico asociado a tu cuenta de GitHub.
          - Especifica a qué información deseas acceder: Solo código. Solo datos resultantes. Ambos (código y datos).
 
-Una vez que recibamos tu solicitud, te proporcionaremos el acceso correspondiente.
+Una vez que recibamos tu solicitud, te proporcionaremos el acceso correspondiente. Tras esto, podrás ver la información solicitada en el siguiente enlace: https://github.com/orgs/Proyecto-ACOPIA/repositories
