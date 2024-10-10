@@ -2,7 +2,7 @@
 
 Gracias por tu interés en el repositorio del proyecto ACOPIA. Aquí encontrarás el código y los datos resultantes de este proyecto.
 
-¿Cómo solicitar acceso?
+**¿Cómo solicitar acceso?**
 Para acceder al repositorio, sigue los siguientes pasos:
 
 1. Crear una cuenta de GitHub
@@ -11,9 +11,9 @@ Si aún no tienes una cuenta de GitHub, puedes crear una de forma gratuita en Gi
 2. Enviar una solicitud por correo electrónico
 Una vez que tengas tu cuenta de GitHub, por favor envía un correo a proyecto.acopia@aptica.es con la siguiente información:
 
-      a. Asunto del correo: Solicitud de acceso al repositorio del proyecto ACOPIA.
+      ***a. Asunto del correo:*** Solicitud de acceso al repositorio del proyecto ACOPIA.
 
-      b. Contenido del correo:
+      ***b. Contenido del correo:***
    
          - Tu nombre de usuario en GitHub.
          - El correo electrónico asociado a tu cuenta de GitHub.
