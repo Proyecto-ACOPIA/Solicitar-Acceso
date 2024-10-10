@@ -8,9 +8,11 @@ Aquí encontrarás el código y los datos resultantes de este proyecto.
 Para acceder al repositorio, sigue los siguientes pasos:
 
 1. Crear una cuenta de GitHub
+   
 Si aún no tienes una cuenta de GitHub, puedes crear una de forma gratuita en GitHub. Solo debes hacer clic en el botón "Sign up" ubicado en la esquina superior derecha de la página.
 
 2. Enviar una solicitud por correo electrónico
+   
 Una vez que tengas tu cuenta de GitHub, por favor envía un correo a proyecto.acopia@aptica.es con la siguiente información:
 
       ***a. Asunto del correo:*** Solicitud de acceso al repositorio del proyecto ACOPIA.
