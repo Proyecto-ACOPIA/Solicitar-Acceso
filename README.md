@@ -20,3 +20,30 @@ Para acceder al repositorio, sigue los siguientes pasos:
          - Especifica a qué información deseas acceder: Solo código. Solo datos resultantes. Ambos (código y datos).
 
 Una vez que recibamos tu solicitud, te proporcionaremos el acceso correspondiente. Tras esto, podrás ver la información solicitada en el siguiente enlace: https://github.com/orgs/Proyecto-ACOPIA/repositories
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+# Welcome to the Project ACOPIA<sub>IA-Puertos4.0</sub>
+
+Thank you for your interest in the repository of the ACOPIA<sub>IA-PUERTOS4.0</sub> - *Algorithm for the Characterization, Optimization and Prediction of Environmental Impact based on Artificial Intelligence in Ports 4.0 project.*
+
+Here you will find the code and data resulting from this project.
+
+**How to request access?**
+Follow the steps below to access the repository:
+
+**1. Create a GitHub account**: If you don't have a GitHub account yet, you can create one for free. Just click on the ‘Sign up’ button in the top right corner of the page.
+
+**2.Send an email request**: Once you have your GitHub account, please send an email to proyecto.acopia@aptica.es with the following information:
+
+      a. Subject of the mail: Request for access to the ACOPIA project repository.
+
+      b. Content of the mail:
+   
+         - Your GitHub username.
+         - The email address associated with your GitHub account.
+         - Specify what information you want to access: Code only. Results only. Both (code and results).
+
+Once we receive your request, we will provide you with the corresponding access. After this, you will be able to view the requested information at the following link: https://github.com/orgs/Proyecto-ACOPIA/repositories
