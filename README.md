@@ -36,7 +36,7 @@ Follow the steps below to access the repository:
 
 **1. Create a GitHub account**: If you don't have a GitHub account yet, you can create one for free. Just click on the ‘Sign up’ button in the top right corner of the page.
 
-**2.Send an email request**: Once you have your GitHub account, please send an email to proyecto.acopia@aptica.es with the following information:
+**2. Send an email request**: Once you have your GitHub account, please send an email to proyecto.acopia@aptica.es with the following information:
 
       a. Subject of the mail: Request for access to the ACOPIA project repository.
 
